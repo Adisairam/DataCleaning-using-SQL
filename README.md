@@ -1,7 +1,4 @@
-# DataCleaning-using-SQL
-Here’s a clean, concise GitHub project description (no emojis):
-
----
+-
 
 ## Data Cleaning Using SQL
 
