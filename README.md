@@ -1,4 +1,4 @@
--
+
 
 ## Data Cleaning Using SQL
 
@@ -30,5 +30,4 @@ The dataset becomes clean, consistent, and ready for reporting or visualization.
 
 ---
 
-Would you like me to format this into a proper `README.md` file version for direct upload to GitHub?
 
